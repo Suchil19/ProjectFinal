@@ -1,8 +1,4 @@
-
-
- /*Hero*/
-
-
+ /*Imagen que podemos cambiar*/
  .hero {
     position: relative;
     background: linear-gradient(to bottom, #1f2933 , #1f2933c5), url("https://images.unsplash.com/photo-1612090295951-656aaeac99d9?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") no-repeat center center fixed;
@@ -80,7 +76,6 @@
  
   /*Container*/
  
- 
   .container__text{
     max-width: 1200px;
     width: 95%;
@@ -88,9 +83,7 @@
     padding: 0;
   }
  
- 
   /*Agregar el inicio 01 Banner*/
- 
  
   .section__text .row{
     margin-top: 0%;
